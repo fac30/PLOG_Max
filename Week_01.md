@@ -30,6 +30,7 @@
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
   * I really struggled making sense of CSS in a group environment, without full knowledge of what everyone else has contributed it can be difficult to find bugs
   * I struggled a bit with Git and merge conflicts
+  * Figma design
 
 ## Feedback (For CF's)
 > [**Course Facilitator name**]  
