@@ -33,6 +33,35 @@
   * Figma design
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
-> [*Even better if*]
+[**Course Facilitator name**]  
+
+Alexander
+
+[*What went well*]
+
+Very good progress log. You show a broad spectrum of learnings and you specifically mention all the required ones plus some very interesting stretches.
+
+[*Even better if*]
+
+It would be great if you could add short code snippets of code or commands, screenshots, mermaid diagrams... to support some of the ideas.
+
+For example, you could add a brief git workflow diagram using Mermaid:
+
+```mermaid
+graph TD
+    A[Working Directory] -->|git add| B[Staging Area]
+    B -->|git commit| C[Local Repository]
+    C -->|git push| D[Remote Repository]
+    D -->|git pull| A
+```
+
+Or you could include a short code snippet to illustrate a concept you learned, like DOM manipulation:
+
+```javascript
+// Example of DOM manipulation
+const newElement = document.createElement('div');
+newElement.textContent = 'Hello, World!';
+document.body.appendChild(newElement);
+```
+
+Adding these kinds of examples can make your progress log more informative and easier to review in the future.
