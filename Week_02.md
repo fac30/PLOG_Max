@@ -64,6 +64,14 @@ requiredEnvVariables.forEach((envVar) => {
  * Struggled taking the time to read documentation fully before getting started with the project
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Very good example of a progress log. I love the short snippets, that you covered all the basics and you went further integrating learnings from the workshops in your project
+
 > [*Even better if*]
+
+Nothing to mention.
