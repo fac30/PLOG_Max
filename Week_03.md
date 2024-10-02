@@ -79,6 +79,14 @@ export type spotifyResponse = track[];
  * Yet to use postman but have set it up and ready for when our server is up and running
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+You give different examples of the topics covered on this week and really good snippets
+
 > [*Even better if*]
+
+You could add something project planning related. No more to add to be honest
