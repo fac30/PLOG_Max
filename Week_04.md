@@ -94,6 +94,14 @@ export default {
 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Excellent, I love how you included a bit a project planning. I also like how you try to understand the most basic concepts like config files. Most of us just ignore them.
+
 > [*Even better if*]
+
+You could edit a bit your code snippets to only leave what is neccesary, but ,in any case, this is a great log
