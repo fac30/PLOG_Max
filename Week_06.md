@@ -52,6 +52,10 @@ async function createDynamicRoutes() {
  * I had discussion with our consultant Ben about this and would like to revisit a solution that he suggested using Views at some point (perhaps not for this project though given time constraints) - Views are like temporary tables that are used for performing calculations on other tables
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
+> [**Course Facilitator name**]
+ 
+Alexander
+
 > [*What went well*]  
-> [*Even better if*]
+
+I absolutely love your approach of trying to make your solutions as generic as possible. In this case I am not sure if it makes sense but, in any case, I love it. It's simple and sophisticated.
