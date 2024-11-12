@@ -41,6 +41,10 @@ string customMethod(bool whichMessage)
  * I would say I also struggled with the length of the workshops and the inaccurate time estimates from Microsoft to complete them, I had to work long hours to finish them... and I still have one left to do.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
-> [*Even better if*]
+> [**Course Facilitator name**]>
+
+Alexander
+
+> [*What went well*]
+
+I love how you pushed yourself to progress with the workshops. It also looks like you are getting a good understanding of csharp basics.
