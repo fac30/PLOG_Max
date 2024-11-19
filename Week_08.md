@@ -54,6 +54,14 @@ app.use(
 ```
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Excellent test-driven development approach with Jest and supertest. Good use of TypeScript features like Partial<> for type flexibility. Clear understanding of CORS configuration for authentication.
+
 > [*Even better if*]
+
+Show how you would have set up staging/production environments since you mentioned it as a missed opportunity. The Swagger documentation implementation you praised would be worth showing as an example.
