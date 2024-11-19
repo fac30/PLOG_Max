@@ -63,6 +63,14 @@ if (builder.Environment.IsDevelopment())
  * Not much struggle this week has been quite well organised and relaxed, I pushed myself in the previous week to get ahead with C#, along with the workshops Alex suggested from the beginning of the week with minimal API has meant I was well equipped to get through the project this week. The only issue being we did not find the time to connect frontend and backend so far but as mentionned above, I am not worried about this so all good from me!
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Strong grasp of .NET project structure and C# fundamentals, particularly namespace organization. Good understanding of Swagger integration in .NET with practical examples. Clear communication with team through well-documented PRs.
+
 > [*Even better if*]
+
+Since frontend-backend integration wasn't completed, outline your planned approach for connecting them. You mentioned understanding how it would work - show that understanding with code examples.
