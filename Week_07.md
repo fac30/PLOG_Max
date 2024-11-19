@@ -87,6 +87,14 @@ const data = await supabase
 ```
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+ 
+Alexander
+
+> [*What went well*]
+
+Thorough implementation of authentication system with security considerations. Good understanding of cookie handling between frontend and backend. Clear explanation of database relationship issues with specific examples of both problematic and correct table structures.
+
 > [*Even better if*]
+
+Implement and document the express-session migration you mentioned, since you identified it as a better solution than your current setup. Your useContext experience from the previous project could have been valuable - show how you would implement it here.
