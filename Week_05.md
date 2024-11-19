@@ -39,6 +39,14 @@ const secrets = JSON.parse(secretString); // from here retrieve specific keys fr
  * I had trouble with CI/CD deployment using github actions but was happy to see there are other ways to do it using AWS CDK thanks to Jack, to be investigated!
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Strong implementation of AWS Secrets Manager for secure deployment. Good understanding of Cypress test automation with clear examples of beforeEach usage. Practical approach to team collaboration through PR reviews.
+
 > [*Even better if*]
+
+Document your GitHub Actions workflow attempts, even if they failed. The AWS permissions issues you encountered would be valuable to track for future reference.
