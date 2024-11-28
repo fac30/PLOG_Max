@@ -103,6 +103,10 @@ ports:
       - "5433:5432"
 ```
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
+> [**Course Facilitator name**]
+
+Alexander
+
 > [*What went well*]  
-> [*Even better if*]
+
+Nice work with Docker and Kubernetes setup - the yaml files are well structured and your explanation of the port mapping issue shows good understanding of containers. The fetchData function is solid and I like how you adapted it to work with your deployed backend.
